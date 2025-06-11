@@ -157,7 +157,7 @@ export default function HeroSection() {
                       variant="ghost"
                       className="h-10.5 rounded-xl px-5 py-2 text-[#00ffe6]"
                     >
-                      <Link href="https://www.instagram.com/edusomautoparts/" target="_blank">
+                      <Link href="https://www.instagram.com/eduautopartss/" target="_blank">
                         <Instagram/><span className="text-nowrap">Instagram</span>
                       </Link>
                     </Button>
