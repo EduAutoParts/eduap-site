@@ -84,7 +84,7 @@ export default function HeroSection() {
                 <AnimatedGroup variants={transitionVariants}>
                   <Image
                     className="mx-auto"
-                    src="/images/logo.png"
+                    src="./images/logo.png"
                     alt="logo"
                     width={450}
                     height={450}
@@ -198,14 +198,14 @@ export default function HeroSection() {
                 <div className=" dark: bg-[#003b6f] justify-center items-center relative mx-auto max-w-6xl overflow-hidden rounded-2xl p-4">
                   <Image
                     className="mx-autoaspect-15/8 relative hidden rounded-2xl dark:block"
-                    src="/images/eduzinho.png"
+                    src="./images/eduzinho.png"
                     alt="app screen"
                     width="675"
                     height="360"
                   />
                   <Image
                     className="z-2 mx-auto aspect-15/8 relative rounded-2xl dark:hidden"
-                    src="/images/eduzinho.png"
+                    src="./images/eduzinho.png"
                     alt="app screen"
                     width="675"
                     height="360"
