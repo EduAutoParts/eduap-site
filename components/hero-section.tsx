@@ -145,7 +145,7 @@ export default function HeroSection() {
                       variant="ghost"
                       className="h-10.5 !rounded-xl px-5 py-2 text-[#00ffe6]"
                     >
-                      <Link href="http://api.whatsapp.com/send?1=pt_BR&phone=5581996797168" target="_blank">                        
+                      <Link href="http://api.whatsapp.com/send?1=pt_BR&phone=5581996995295" target="_blank">                        
                         <FaWhatsapp/>
                         <span className="text-nowrap">WhatsApp</span>
                       </Link>
